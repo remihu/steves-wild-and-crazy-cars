@@ -1,0 +1,28 @@
+/* navbar */
+.navbar-default {
+	background-color: aqua;
+}
+/* highlighted link on navbar */
+.navbar-default .navbar-nav>.active>a {
+	background-color: lime;
+}
+/* hover state for link on navbar */
+.navbar-default .navbar-nav>.active>a:hover {
+	background-color: yellow;
+}
+section {
+	padding: 20px
+}
+#deals {
+	/*background-color: yellow;*/
+}
+#used-cars {
+	/*background-color: fuchsia;*/
+}
+#new-cars {
+	/*background-color: aqua;*/
+}
+#carousel-example-generic img {
+	width: 100%;
+	max-width: 100%;
+}
